@@ -160,25 +160,7 @@
     }
   },
   "files": [
-    "dist/**",
-    "changeset/**",
-    "collab/**",
-    "commands/**",
-    "dropcursor/**",
-    "gapcursor/**",
-    "history/**",
-    "inputrules/**",
-    "keymap/**",
-    "markdown/**",
-    "menu/**",
-    "model/**",
-    "schema-basic/**",
-    "schema-list/**",
-    "state/**",
-    "tables/**",
-    "trailing-node/**",
-    "transform/**",
-    "view/**"
+    "dist"
   ],
   "dependencies": {
     "prosemirror-changeset": "^2.3.0",
