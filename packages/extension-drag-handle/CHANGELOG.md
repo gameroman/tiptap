@@ -1,5 +1,64 @@
 # @tiptap/extension-drag-handle
 
+## 3.22.5
+
+### Patch Changes
+
+- Updated dependencies [a375002]
+  - @tiptap/core@3.22.5
+  - @tiptap/extension-collaboration@3.22.5
+  - @tiptap/extension-node-range@3.22.5
+  - @tiptap/pm@3.22.5
+
+## 3.22.4
+
+### Patch Changes
+
+- 040da0d: Fix drag handle ghost image alignment when dragging blocks inside offset layouts, and preserve correct ghost image behavior for RTL content.
+- 27ea931: Fix dependencies installation after packages updates producing peer dependency resolution conflicts
+- Updated dependencies [27ea931]
+- Updated dependencies [64f36b8]
+- Updated dependencies [032f8f1]
+  - @tiptap/core@3.22.4
+  - @tiptap/extension-collaboration@3.22.4
+  - @tiptap/extension-node-range@3.22.4
+  - @tiptap/pm@3.22.4
+
+## 3.22.3
+
+### Patch Changes
+
+- ac994c5: Fix drag selections so crossing a node boundary does not incorrectly include the next node.
+- Updated dependencies [cb28e7b]
+- Updated dependencies [ac994c5]
+  - @tiptap/core@3.22.3
+  - @tiptap/extension-node-range@3.22.3
+  - @tiptap/extension-collaboration@3.22.3
+  - @tiptap/pm@3.22.3
+
+## 3.22.2
+
+### Patch Changes
+
+- Updated dependencies [f1d504c]
+- Updated dependencies [404c683]
+  - @tiptap/core@3.22.2
+  - @tiptap/extension-collaboration@3.22.2
+  - @tiptap/extension-node-range@3.22.2
+  - @tiptap/pm@3.22.2
+
+## 3.22.1
+
+### Patch Changes
+
+- 942eb85: Fixed drag handle ghost image for RTL and mixed-direction content: the ghost wrapper now uses the dragged block’s computed `direction` (via `domAtPos`), and the drag image hotspot uses the cursor position relative to the ghost `wrapper` so the preview aligns with the pointer in both LTR and RTL.
+- Updated dependencies [ee03ac0]
+- Updated dependencies [b88f9ed]
+  - @tiptap/core@3.22.1
+  - @tiptap/extension-collaboration@3.22.1
+  - @tiptap/extension-node-range@3.22.1
+  - @tiptap/pm@3.22.1
+
 ## 3.22.0
 
 ### Patch Changes

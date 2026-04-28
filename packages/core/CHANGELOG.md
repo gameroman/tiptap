@@ -1,5 +1,45 @@
 # Change Log
 
+## 3.22.5
+
+### Patch Changes
+
+- a375002: Add `selectedOnTextSelection` option to node view renderers. When enabled, the `selected` prop also becomes true when a TextSelection is fully inside the node's range, not only on NodeSelection.
+  - @tiptap/pm@3.22.5
+
+## 3.22.4
+
+### Patch Changes
+
+- 27ea931: Fix dependencies installation after packages updates producing peer dependency resolution conflicts
+- 64f36b8: Fix text selection collapsing after toggling off a list with AllSelection
+- Updated dependencies [27ea931]
+- Updated dependencies [032f8f1]
+  - @tiptap/pm@3.22.4
+
+## 3.22.3
+
+### Patch Changes
+
+- cb28e7b: Fixed `insertContentAt` corrupting the document when inserting inline content with marks at the start of a paragraph. The `from - 1` position adjustment now only applies to block-level content.
+  - @tiptap/pm@3.22.3
+
+## 3.22.2
+
+### Patch Changes
+
+- f1d504c: Fix incorrect selection placement when pasting at the end of a marked text node, ensuring inclusive marks are respected
+- 404c683: Fixes list toggling when the entire document is selected
+  - @tiptap/pm@3.22.2
+
+## 3.22.1
+
+### Patch Changes
+
+- ee03ac0: Fix NodeView not re-rendering when a node's position changes without content or decoration changes (e.g. when a sibling node is moved within the same parent)
+- b88f9ed: Don't stop dragover/dragenter events in NodeViews, to prevent spurious drag-copy cursors
+  - @tiptap/pm@3.22.1
+
 ## 3.22.0
 
 ### Patch Changes

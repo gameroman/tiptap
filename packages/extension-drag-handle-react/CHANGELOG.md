@@ -1,5 +1,55 @@
 # @tiptap/extension-drag-handle-react
 
+## 3.22.5
+
+### Patch Changes
+
+- Updated dependencies [a375002]
+  - @tiptap/react@3.22.5
+  - @tiptap/extension-drag-handle@3.22.5
+  - @tiptap/pm@3.22.5
+
+## 3.22.4
+
+### Patch Changes
+
+- 27ea931: Fix dependencies installation after packages updates producing peer dependency resolution conflicts
+- Updated dependencies [040da0d]
+- Updated dependencies [27ea931]
+- Updated dependencies [032f8f1]
+  - @tiptap/extension-drag-handle@3.22.4
+  - @tiptap/pm@3.22.4
+  - @tiptap/react@3.22.4
+
+## 3.22.3
+
+### Patch Changes
+
+- Updated dependencies [ac994c5]
+  - @tiptap/extension-drag-handle@3.22.3
+  - @tiptap/react@3.22.3
+  - @tiptap/pm@3.22.3
+
+## 3.22.2
+
+### Patch Changes
+
+- Updated dependencies [8ab8bee]
+  - @tiptap/react@3.22.2
+  - @tiptap/extension-drag-handle@3.22.2
+  - @tiptap/pm@3.22.2
+
+## 3.22.1
+
+### Patch Changes
+
+- Updated dependencies [942eb85]
+- Updated dependencies [ee03ac0]
+- Updated dependencies [6f3b9fc]
+  - @tiptap/extension-drag-handle@3.22.1
+  - @tiptap/react@3.22.1
+  - @tiptap/pm@3.22.1
+
 ## 3.22.0
 
 ### Patch Changes

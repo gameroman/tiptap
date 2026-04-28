@@ -1,5 +1,161 @@
 # Change Log
 
+## 3.22.5
+
+### Patch Changes
+
+- Updated dependencies [a375002]
+  - @tiptap/core@3.22.5
+  - @tiptap/extension-blockquote@3.22.5
+  - @tiptap/extension-bold@3.22.5
+  - @tiptap/extension-code@3.22.5
+  - @tiptap/extension-code-block@3.22.5
+  - @tiptap/extension-document@3.22.5
+  - @tiptap/extension-hard-break@3.22.5
+  - @tiptap/extension-heading@3.22.5
+  - @tiptap/extension-horizontal-rule@3.22.5
+  - @tiptap/extension-italic@3.22.5
+  - @tiptap/extension-link@3.22.5
+  - @tiptap/extension-list@3.22.5
+  - @tiptap/extension-paragraph@3.22.5
+  - @tiptap/extension-strike@3.22.5
+  - @tiptap/extension-text@3.22.5
+  - @tiptap/extension-underline@3.22.5
+  - @tiptap/extensions@3.22.5
+  - @tiptap/extension-list-item@3.22.5
+  - @tiptap/extension-list-keymap@3.22.5
+  - @tiptap/extension-bullet-list@3.22.5
+  - @tiptap/extension-ordered-list@3.22.5
+  - @tiptap/extension-dropcursor@3.22.5
+  - @tiptap/extension-gapcursor@3.22.5
+  - @tiptap/pm@3.22.5
+
+## 3.22.4
+
+### Patch Changes
+
+- 27ea931: Fix dependencies installation after packages updates producing peer dependency resolution conflicts
+- Updated dependencies [27ea931]
+- Updated dependencies [64f36b8]
+- Updated dependencies [5ca9902]
+- Updated dependencies [032f8f1]
+  - @tiptap/core@3.22.4
+  - @tiptap/extension-blockquote@3.22.4
+  - @tiptap/extension-bold@3.22.4
+  - @tiptap/extension-bullet-list@3.22.4
+  - @tiptap/extension-code@3.22.4
+  - @tiptap/extension-code-block@3.22.4
+  - @tiptap/extension-document@3.22.4
+  - @tiptap/extension-hard-break@3.22.4
+  - @tiptap/extension-heading@3.22.4
+  - @tiptap/extension-horizontal-rule@3.22.4
+  - @tiptap/extension-italic@3.22.4
+  - @tiptap/extension-link@3.22.4
+  - @tiptap/extension-list@3.22.4
+  - @tiptap/extension-ordered-list@3.22.4
+  - @tiptap/extension-paragraph@3.22.4
+  - @tiptap/extension-strike@3.22.4
+  - @tiptap/extension-text@3.22.4
+  - @tiptap/extension-underline@3.22.4
+  - @tiptap/extensions@3.22.4
+  - @tiptap/pm@3.22.4
+  - @tiptap/extension-dropcursor@3.22.4
+  - @tiptap/extension-gapcursor@3.22.4
+  - @tiptap/extension-list-item@3.22.4
+  - @tiptap/extension-list-keymap@3.22.4
+
+## 3.22.3
+
+### Patch Changes
+
+- Updated dependencies [cb28e7b]
+  - @tiptap/core@3.22.3
+  - @tiptap/extension-blockquote@3.22.3
+  - @tiptap/extension-bold@3.22.3
+  - @tiptap/extension-code@3.22.3
+  - @tiptap/extension-code-block@3.22.3
+  - @tiptap/extension-document@3.22.3
+  - @tiptap/extension-hard-break@3.22.3
+  - @tiptap/extension-heading@3.22.3
+  - @tiptap/extension-horizontal-rule@3.22.3
+  - @tiptap/extension-italic@3.22.3
+  - @tiptap/extension-link@3.22.3
+  - @tiptap/extension-list@3.22.3
+  - @tiptap/extension-paragraph@3.22.3
+  - @tiptap/extension-strike@3.22.3
+  - @tiptap/extension-text@3.22.3
+  - @tiptap/extension-underline@3.22.3
+  - @tiptap/extensions@3.22.3
+  - @tiptap/extension-list-item@3.22.3
+  - @tiptap/extension-list-keymap@3.22.3
+  - @tiptap/extension-bullet-list@3.22.3
+  - @tiptap/extension-ordered-list@3.22.3
+  - @tiptap/extension-dropcursor@3.22.3
+  - @tiptap/extension-gapcursor@3.22.3
+  - @tiptap/pm@3.22.3
+
+## 3.22.2
+
+### Patch Changes
+
+- Updated dependencies [f1d504c]
+- Updated dependencies [404c683]
+  - @tiptap/core@3.22.2
+  - @tiptap/extension-blockquote@3.22.2
+  - @tiptap/extension-bold@3.22.2
+  - @tiptap/extension-code@3.22.2
+  - @tiptap/extension-code-block@3.22.2
+  - @tiptap/extension-document@3.22.2
+  - @tiptap/extension-hard-break@3.22.2
+  - @tiptap/extension-heading@3.22.2
+  - @tiptap/extension-horizontal-rule@3.22.2
+  - @tiptap/extension-italic@3.22.2
+  - @tiptap/extension-link@3.22.2
+  - @tiptap/extension-list@3.22.2
+  - @tiptap/extension-paragraph@3.22.2
+  - @tiptap/extension-strike@3.22.2
+  - @tiptap/extension-text@3.22.2
+  - @tiptap/extension-underline@3.22.2
+  - @tiptap/extensions@3.22.2
+  - @tiptap/extension-list-item@3.22.2
+  - @tiptap/extension-list-keymap@3.22.2
+  - @tiptap/extension-bullet-list@3.22.2
+  - @tiptap/extension-ordered-list@3.22.2
+  - @tiptap/extension-dropcursor@3.22.2
+  - @tiptap/extension-gapcursor@3.22.2
+  - @tiptap/pm@3.22.2
+
+## 3.22.1
+
+### Patch Changes
+
+- Updated dependencies [ee03ac0]
+- Updated dependencies [b88f9ed]
+  - @tiptap/core@3.22.1
+  - @tiptap/extension-blockquote@3.22.1
+  - @tiptap/extension-bold@3.22.1
+  - @tiptap/extension-code@3.22.1
+  - @tiptap/extension-code-block@3.22.1
+  - @tiptap/extension-document@3.22.1
+  - @tiptap/extension-hard-break@3.22.1
+  - @tiptap/extension-heading@3.22.1
+  - @tiptap/extension-horizontal-rule@3.22.1
+  - @tiptap/extension-italic@3.22.1
+  - @tiptap/extension-link@3.22.1
+  - @tiptap/extension-list@3.22.1
+  - @tiptap/extension-paragraph@3.22.1
+  - @tiptap/extension-strike@3.22.1
+  - @tiptap/extension-text@3.22.1
+  - @tiptap/extension-underline@3.22.1
+  - @tiptap/extensions@3.22.1
+  - @tiptap/extension-list-item@3.22.1
+  - @tiptap/extension-list-keymap@3.22.1
+  - @tiptap/extension-bullet-list@3.22.1
+  - @tiptap/extension-ordered-list@3.22.1
+  - @tiptap/extension-dropcursor@3.22.1
+  - @tiptap/extension-gapcursor@3.22.1
+  - @tiptap/pm@3.22.1
+
 ## 3.22.0
 
 ### Patch Changes

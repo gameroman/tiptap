@@ -1,5 +1,55 @@
 # @tiptap/extension-file-handler
 
+## 3.22.5
+
+### Patch Changes
+
+- Updated dependencies [a375002]
+  - @tiptap/core@3.22.5
+  - @tiptap/extension-text-style@3.22.5
+  - @tiptap/pm@3.22.5
+
+## 3.22.4
+
+### Patch Changes
+
+- 27ea931: Fix dependencies installation after packages updates producing peer dependency resolution conflicts
+- Updated dependencies [27ea931]
+- Updated dependencies [64f36b8]
+- Updated dependencies [032f8f1]
+  - @tiptap/core@3.22.4
+  - @tiptap/extension-text-style@3.22.4
+  - @tiptap/pm@3.22.4
+
+## 3.22.3
+
+### Patch Changes
+
+- Updated dependencies [cb28e7b]
+  - @tiptap/core@3.22.3
+  - @tiptap/extension-text-style@3.22.3
+  - @tiptap/pm@3.22.3
+
+## 3.22.2
+
+### Patch Changes
+
+- Updated dependencies [f1d504c]
+- Updated dependencies [404c683]
+  - @tiptap/core@3.22.2
+  - @tiptap/extension-text-style@3.22.2
+  - @tiptap/pm@3.22.2
+
+## 3.22.1
+
+### Patch Changes
+
+- Updated dependencies [ee03ac0]
+- Updated dependencies [b88f9ed]
+  - @tiptap/core@3.22.1
+  - @tiptap/extension-text-style@3.22.1
+  - @tiptap/pm@3.22.1
+
 ## 3.22.0
 
 ### Patch Changes

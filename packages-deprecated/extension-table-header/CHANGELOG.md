@@ -1,5 +1,37 @@
 # Change Log
 
+## 3.22.5
+
+### Patch Changes
+
+- @tiptap/extension-table@3.22.5
+
+## 3.22.4
+
+### Patch Changes
+
+- 27ea931: Fix dependencies installation after packages updates producing peer dependency resolution conflicts
+- Updated dependencies [27ea931]
+  - @tiptap/extension-table@3.22.4
+
+## 3.22.3
+
+### Patch Changes
+
+- @tiptap/extension-table@3.22.3
+
+## 3.22.2
+
+### Patch Changes
+
+- @tiptap/extension-table@3.22.2
+
+## 3.22.1
+
+### Patch Changes
+
+- @tiptap/extension-table@3.22.1
+
 ## 3.22.0
 
 ### Patch Changes

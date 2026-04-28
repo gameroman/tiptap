@@ -1,5 +1,54 @@
 # Change Log
 
+## 3.22.5
+
+### Patch Changes
+
+- a375002: Add `selectedOnTextSelection` option to node view renderers. When enabled, the `selected` prop also becomes true when a TextSelection is fully inside the node's range, not only on NodeSelection.
+- Updated dependencies [a375002]
+  - @tiptap/core@3.22.5
+  - @tiptap/pm@3.22.5
+
+## 3.22.4
+
+### Patch Changes
+
+- 27ea931: Fix dependencies installation after packages updates producing peer dependency resolution conflicts
+- Updated dependencies [27ea931]
+- Updated dependencies [64f36b8]
+- Updated dependencies [032f8f1]
+  - @tiptap/core@3.22.4
+  - @tiptap/pm@3.22.4
+
+## 3.22.3
+
+### Patch Changes
+
+- Updated dependencies [cb28e7b]
+  - @tiptap/core@3.22.3
+  - @tiptap/pm@3.22.3
+
+## 3.22.2
+
+### Patch Changes
+
+- 8ab8bee: Fixed an error where `flushSync()` would run in `<EditorContent />` lifecycle
+- Updated dependencies [f1d504c]
+- Updated dependencies [404c683]
+  - @tiptap/core@3.22.2
+  - @tiptap/pm@3.22.2
+
+## 3.22.1
+
+### Patch Changes
+
+- ee03ac0: Fix NodeView not re-rendering when a node's position changes without content or decoration changes (e.g. when a sibling node is moved within the same parent)
+- 6f3b9fc: Prevent React node views from crashing during deferred selection updates when ProseMirror has already detached the node view position lookup.
+- Updated dependencies [ee03ac0]
+- Updated dependencies [b88f9ed]
+  - @tiptap/core@3.22.1
+  - @tiptap/pm@3.22.1
+
 ## 3.22.0
 
 ### Patch Changes
